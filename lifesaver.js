@@ -216,8 +216,8 @@ function toLink(){
     var html = '<script src="http://crypto-js.googlecode.com/files/2.0.0-crypto-sha1.js"></'+'script>'+
                '<script src="http://crypto-js.googlecode.com/files/2.0.0-hmac-min.js"></'+'script>'+
                '<script src="http://www.foo.be/hotp/hotp/hotp.js"></'+'script>'+
-               '<link rel="stylesheet" href="http://jupyter.snotskie.com:8888/files/otp/lifesaver.css" />'+
-               '<script src="http://jupyter.snotskie.com:8888/files/otp/lifesaver.js"></'+'script>'+
+               '<link rel="stylesheet" href="https://rawgit.com/snotskie/lifesaver/master/lifesaver.css" />'+
+               '<script src="https://rawgit.com/snotskie/lifesaver/master/lifesaver.js"></'+'script>'+
                '<script>toEntry('+SECRET_KEY.length+', '+datajson+', '+T0+', '+TS+')</'+'script>';
     var url = 'data:text/html,'+html;
     var a = document.createElement("a");
