@@ -9,7 +9,7 @@ configure a pattern.
 
 don't forget it.
 
-ever.
+[ever](http://lifehacker.com/5799234/how-muscle-memory-works-and-how-it-affects-your-success).
 
 the website will give you a url. save that url to your favorites.
 
